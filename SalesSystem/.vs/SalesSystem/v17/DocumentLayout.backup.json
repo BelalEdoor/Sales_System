@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\shoppingcarts\\onlineshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\shoppingcarts\\onlineshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\shoppingcarts\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\shoppingcarts\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\itemdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\itemdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\shoppingcarts\\instoreshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\shoppingcarts\\instoreshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\invoicesline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\invoicesline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\discountstrategies\\nulldiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\discountstrategies\\nulldiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\customerdiscountstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:customerdiscountstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\discountstrategies\\icustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\discountstrategies\\icustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\trainings\\back-end development (trusted systems)\\asp.net\\asp.net concepts\\salessystem\\salessystem\\core\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA228710-E227-5A71-A1FD-FD3BDE4858D2}|SalesSystem.csproj|solutionrelative:core\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\Invoices.cs",
+              "RelativeDocumentMoniker": "Core\\Invoices.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\Invoices.cs",
+              "RelativeToolTip": "Core\\Invoices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:32:38.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InStoreShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "RelativeDocumentMoniker": "Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "RelativeToolTip": "Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:19:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ShoppingCarts\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Core\\ShoppingCarts\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ShoppingCarts\\ShoppingCart.cs",
+              "RelativeToolTip": "Core\\ShoppingCarts\\ShoppingCart.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:19:44.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "RelativeDocumentMoniker": "Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "RelativeToolTip": "Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:19:44.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ItemDataReader.cs",
+              "RelativeDocumentMoniker": "Core\\ItemDataReader.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\ItemDataReader.cs",
+              "RelativeToolTip": "Core\\ItemDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:04:31.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\Item.cs",
+              "RelativeDocumentMoniker": "Core\\Item.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\Item.cs",
+              "RelativeToolTip": "Core\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:01:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoicesLine.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\InvoicesLine.cs",
+              "RelativeDocumentMoniker": "Core\\InvoicesLine.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\InvoicesLine.cs",
+              "RelativeToolTip": "Core\\InvoicesLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:00:02.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:23:16.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NullDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "RelativeToolTip": "Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:50:02.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\CustomerDataReader.cs",
+              "RelativeDocumentMoniker": "Core\\CustomerDataReader.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\CustomerDataReader.cs",
+              "RelativeToolTip": "Core\\CustomerDataReader.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:43:49.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "RelativeToolTip": "Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:22:33.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerDiscountStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\CustomerDiscountStrategyFactory.cs",
+              "RelativeDocumentMoniker": "CustomerDiscountStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\CustomerDiscountStrategyFactory.cs",
+              "RelativeToolTip": "CustomerDiscountStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:20:13.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\InvoiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\InvoiceManager.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem\\Core\\InvoiceManager.cs",
+              "RelativeToolTip": "Core\\InvoiceManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:18:19.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

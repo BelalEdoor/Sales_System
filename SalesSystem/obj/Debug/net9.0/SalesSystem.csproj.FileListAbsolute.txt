@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.exe
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.deps.json
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.pdb
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\refint\SalesSystem.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.pdb
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\ref\SalesSystem.dll

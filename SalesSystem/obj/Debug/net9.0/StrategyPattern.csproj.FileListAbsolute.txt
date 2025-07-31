@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.exe
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.deps.json
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.pdb
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\refint\StrategyPattern.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.pdb
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\StrategyPattern\StrategyPattern\obj\Debug\net9.0\ref\StrategyPattern.dll
