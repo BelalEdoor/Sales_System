@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "SalesSystem.Payments.Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/SalesSystem.Payments.Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalesSystem.Payments.Abstraction.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SalesSystem.Payments.Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../SalesSystem.Payments.Abstraction/SalesSystem.Payments.Abstraction.csproj",
+      "msbuildProject": "../SalesSystem.Payments.Abstraction/SalesSystem.Payments.Abstraction.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "SalesSystem.Payments.Abstraction >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hp\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem.Payments.Abstraction\\SalesSystem.Payments.Abstraction.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Trainings\\Back-end development (Trusted Systems)\\ASP.NET\\ASP.NET Concepts\\SalesSystem\\SalesSystem.Payments.Abstraction\\SalesSystem.Payments.Abstraction.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

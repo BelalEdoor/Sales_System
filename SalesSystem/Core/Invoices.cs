@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace StrategyPattern.Core
 {
-    internal class Invoices
+    public class Invoices
     {
         public Customer Customer { get; set; } = new Customer();
         public IEnumerable<InvoicesLine> Lines { get; set; } = new List<InvoicesLine>();

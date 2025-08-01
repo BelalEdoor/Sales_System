@@ -1,4 +1,5 @@
-﻿using StrategyPattern.Core;
+﻿using SalesSystem.Payments.Abstraction;
+using StrategyPattern.Core;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SalesSystem.Core.ShoppingCarts
 {
-    internal abstract class ShoppingCart
+    public abstract class ShoppingCart
     {
         private List<InvoicesLine> _Lines = new();
 
@@ -22,7 +23,8 @@ namespace SalesSystem.Core.ShoppingCarts
                 UnitPrice = unitprice
             });
         }
-        public void Checkout(Customer customer)
+        
+        public void Checkout(Customer customer, PaymentProcessor paymentProcessor)
         {
             var invoice = new Invoices
             {
@@ -31,7 +33,7 @@ namespace SalesSystem.Core.ShoppingCarts
             };
             ApplyTaxes(invoice);
             ApplyDiscount(invoice);
-            ApplyPayment(invoice);
+            ProcessPayment(invoice, paymentProcessor);
         }
 
         private void ApplyTaxes(Invoices invoice)
@@ -39,14 +41,18 @@ namespace SalesSystem.Core.ShoppingCarts
             invoice.Taxes = invoice.TotalPrice * 0.15;
             }
         protected abstract void ApplyDiscount(Invoices invoice);
-            
-        private void ApplyPayment(Invoices invoice)
+
+        private void ProcessPayment(Invoices invoice, PaymentProcessor paymentProcessor)
         {
-           Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"({GetType().Name}) Invoice for Customer `{  invoice.Customer.Name}`with net price:`{invoice.NetPrice}`");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"({GetType().Name}) Invoice for Customer `{invoice.Customer.Name}`with net price:`{invoice.NetPrice}`");
+            
+            var payment = paymentProcessor.ProcessPayment(invoice.Customer.Id, invoice.NetPrice);
+            Console.WriteLine($"Customer Charged with {payment.ChargeAmount }, payment ref : {payment.RefrenceNumber}"); 
+
             Console.ForegroundColor = ConsoleColor.White;
         }
-
+   
     
        
     }

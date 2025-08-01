@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern.Core
 {
-    internal class InvoiceManager
+    public class InvoiceManager
     {
         private ICustomerDiscountStrategy _disccountStrategy;
         public void SetDiscountStrategy (ICustomerDiscountStrategy Strategy)

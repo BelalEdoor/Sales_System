@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SalesSystem.Core.ShoppingCarts
 {
-    internal class InStoreShoppingCart : ShoppingCart
+    public class InStoreShoppingCart : ShoppingCart
     {
         protected override void ApplyDiscount(Invoices invoice)
         {

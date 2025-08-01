@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SalesSystem.Core
 {
-    internal class ItemDataReader
+    public class ItemDataReader
     {
         public IEnumerable<Item> GetItems()
         {

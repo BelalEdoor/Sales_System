@@ -12,3 +12,11 @@ C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\AS
 C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.pdb
 C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.genruntimeconfig.cache
 C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\ref\SalesSystem.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.Payments.Abstraction.deps.json
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.Payments.Abstraction.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.Payments.Abstraction.exe
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.Payments.Abstraction.dll
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\bin\Debug\net9.0\SalesSystem.Payments.Abstraction.pdb
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSystem.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\Trainings\Back-end development (Trusted Systems)\ASP.NET\ASP.NET Concepts\SalesSystem\SalesSystem\obj\Debug\net9.0\SalesSys.5B7FCE65.Up2Date

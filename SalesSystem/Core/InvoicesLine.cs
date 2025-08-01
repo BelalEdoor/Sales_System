@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern.Core
 {
-    internal class InvoicesLine
+    public class InvoicesLine
     {
         public int ItemId { get; set; }
         public double UnitPrice { get; set; }

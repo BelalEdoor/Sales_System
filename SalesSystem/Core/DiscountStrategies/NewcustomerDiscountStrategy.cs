@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern.Core.DiscountStrategies
 {
-    internal class NewcustomerDiscountStrategy
+    public class NewcustomerDiscountStrategy
     {
         double CalculateDiscount(double TotalPrice)
         {

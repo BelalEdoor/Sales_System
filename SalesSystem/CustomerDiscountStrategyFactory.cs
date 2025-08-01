@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SalesSystem
 {
-    internal class CustomerDiscountStrategyFactory
+    public class CustomerDiscountStrategyFactory
     {
         public ICustomerDiscountStrategy CreateICustomerDiscountStrategy(CustomerCategory Category)
         {

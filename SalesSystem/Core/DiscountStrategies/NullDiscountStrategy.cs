@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SalesSystem.Core.DiscountStrategies
 {
-    internal class NullDiscountStrategy : ICustomerDiscountStrategy
+    public class NullDiscountStrategy : ICustomerDiscountStrategy
     {
         public double CalculateDiscount(double totalPrice)
         {

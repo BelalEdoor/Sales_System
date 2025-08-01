@@ -1,6 +1,6 @@
 ﻿namespace StrategyPattern.Core.DiscountStrategies
 {
-    internal class GoldCustomerDiscountStrategy : ICustomerDiscountStrategy
+    public class GoldCustomerDiscountStrategy : ICustomerDiscountStrategy
     {
         public double CalculateDiscount(double TotalPrice)
         {

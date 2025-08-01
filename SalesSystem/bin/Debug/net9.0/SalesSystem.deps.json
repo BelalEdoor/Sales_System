@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "SalesSystem/1.0.0": {
+        "dependencies": {
+          "SalesSystem.Payments.Abstraction": "1.0.0"
+        },
         "runtime": {
           "SalesSystem.dll": {}
+        }
+      },
+      "SalesSystem.Payments.Abstraction/1.0.0": {
+        "runtime": {
+          "SalesSystem.Payments.Abstraction.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "SalesSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalesSystem.Payments.Abstraction/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
